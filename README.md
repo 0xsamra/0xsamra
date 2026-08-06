@@ -47,7 +47,7 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <i>"The only secure system is one that is powered off, cast in a block of concrete..."<br> -- Gene Spafford </i>
 </p>
 
 ---
