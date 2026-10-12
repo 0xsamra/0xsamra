@@ -47,7 +47,11 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xsamra&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xsamra&bg_color=0d1117&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true"
+    alt="Samra's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ### 💭 Dev Quote
